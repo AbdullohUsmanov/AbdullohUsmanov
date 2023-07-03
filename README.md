@@ -1,5 +1,5 @@
 ![logo](https://github.com/AbdullohUsmanov/AbdullohUsmanov/blob/main/welcome.jpg)
-<h1 align="center">Hi 👋, I'm Abdulloh Usmanov</h1>
+<h1 align="center">Hi 👋, I'm Abdullokh Usmanov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on Unicard
