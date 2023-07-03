@@ -1,4 +1,4 @@
-![logo](https://github.com/sardoregamberdiyev/sardoregamberdiyev/blob/main/EgamberdiyevSardor.jpg)
+![logo](https://github.com/AbdullohUsmanov/AbdullohUsmanov/blob/main/welcome.jpg)
 <h1 align="center">Hi 👋, I'm Abdulloh Usmanov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
